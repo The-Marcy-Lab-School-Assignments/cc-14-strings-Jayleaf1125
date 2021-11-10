@@ -2,7 +2,7 @@
 const stripUpperCase = str => {
    let rmvUpCase = "";
    for (let i of str) {
-       if (i == i.toLowerCase()) {
+       if (i === i.toLowerCase()) {
            rmvUpCase += i ;
        }
    }
