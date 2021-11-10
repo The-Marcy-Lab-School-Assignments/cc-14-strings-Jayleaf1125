@@ -1,0 +1,7 @@
+// Declare a function name removeUpperCase
+// Create a parameter called 'str'
+    // Declare a varible named "rmvUpCase" that has an empty an string
+    // For loop that will iterate through the string agruement
+        // If a string character has an uppercase letter, delete character
+        // Else, add those characters into the empty string
+// Return rmvUpCase
